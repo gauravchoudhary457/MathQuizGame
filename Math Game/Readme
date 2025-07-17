@@ -1,0 +1,18 @@
+# Math Quiz Game 🎯
+
+This is a simple math game built using HTML, CSS, and JavaScript.  
+Users get 60 seconds to answer as many multiplication questions as possible.  
+
+## Features
+- Random multiplication questions
+- Countdown timer
+- Score tracking
+- Immediate feedback: Correct / Try Again
+
+## How to Play
+- Click "Start Game"
+- Click the correct answer among the 4 boxes
+- Game ends after 60 seconds
+
+---
+Made with ❤️ by Gaurav Choudhary
